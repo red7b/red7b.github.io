@@ -23,9 +23,10 @@
 body {
   margin: 0;
   padding: 0;
-  background: #F0F0F0;
-  color: #222;
-  font: 14px 'Roboto', 'Trebuchet MS', "Arial", sans-serif;
+  background: #222;
+  color: #9A9A9A;
+  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.3);
+  font: 13px 'Roboto', 'Trebuchet MS', "Arial", sans-serif;
 }
 
 p, #userinfo_stats li:last-child {
@@ -135,16 +136,19 @@ a.new-subscriptions:hover {
 
 h1, h2, h3 {
   color: #666 !important;
+  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.2);
   font-weight: bold;
 }
 
 h2 {
+  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.2);
   font-size: 24px;
   line-height: 1.2em;
   margin-bottom: 1em;
 }
 
 h3 {
+  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.2);
   font-size: 14px;
   line-height: 1.2em;
   margin-bottom: 1.1em;
@@ -457,7 +461,7 @@ ul.collage_images li:before {
 }
 
 #footer p:last-child:before {
-  content: "LightMonoAlt. Based on DarkMonoAlt. Original by htrd. Released under CC BY-NC-ND 3.0 License.\A";
+  content: "DarkMonoAlt. Original by htrd. Released under CC BY-NC-ND 3.0 License.\A";
   display: block;
 }
 
@@ -501,7 +505,7 @@ ul.collage_images li:before {
   background-color: rgba(100, 100, 100, 0.15);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  color: #222;
+  color: #9A9A9A;
 }
 
 /* resize forum td(2) */
@@ -554,6 +558,7 @@ ul.collage_images li:before {
   padding: 2px 2px;
   border: none !important;
   color: #528ba3 !important;
+  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.3);
 }
 
 #format-hide .hider-f {
