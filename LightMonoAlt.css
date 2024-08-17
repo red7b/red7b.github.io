@@ -2249,7 +2249,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Tooltips */
 .tooltipster-default {
-  background-color: rgba(45, 45, 45, 0.95);
+  background-color: rgba(45, 45, 45, 0.25);
   border-color: rgba(0, 0, 0, 0.95);
   border-width: 1px;
   color: #222;
@@ -2265,7 +2265,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Notifications */
 #noty_bottomRight_layout_container > li {
-  background-color: rgba(45, 45, 45, 0.85) !important;
+  background-color: rgba(45, 45, 45, 0.25) !important;
   border-color: rgba(0, 0, 0, 0.95) !important;
   color: #222 !important;
 }
