@@ -515,7 +515,7 @@ ul.collage_images li:before {
 
 #forums #searchforum .search_form {
   width: 970px;
-  color: #9A9A9A;
+  color: #222;
 }
 
 #forums #searchforum.center {
@@ -693,12 +693,11 @@ ul.collage_images li:before {
   width: 100%;
   height: 45px;
   text-align: right;
-  text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.5);
   font-weight: normal;
 }
 
 #menu a, #userinfo_stats a, .tags a:hover, .search_form {
-  color: #9A9A9A;
+  color: #222;
 }
 
 #menu .active a {
@@ -1377,7 +1376,7 @@ input[type="text"], input[type="search"], input[type="password"], input[type="em
   background: rgba(0, 0, 0, 0.15);
   -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
   box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
-  color: #9A9A9A;
+  color: #222;
   transition: .25s ease-in-out;
   -webkit-transition: .25s ease-in-out;
   -moz-transition: .25s ease-in-out;
@@ -1711,7 +1710,7 @@ li.graph .center_poll {
   background-color: rgba(100, 100, 100, 0.15);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  color: #9A9A9A;
+  color: #222;
 }
 
 .cats_col, .group.discog td.center:nth-child(2) {
@@ -2259,7 +2258,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
   background-color: rgba(45, 45, 45, 0.95);
   border-color: rgba(0, 0, 0, 0.95);
   border-width: 1px;
-  color: #9A9A9A;
+  color: #222;
   -webkit-box-shadow: 0px 2px 3px black;
   box-shadow: 0px 2px 3px rgba(0, 0, 0, 0.1);
 }
@@ -2274,7 +2273,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 #noty_bottomRight_layout_container > li {
   background-color: rgba(45, 45, 45, 0.85) !important;
   border-color: rgba(0, 0, 0, 0.95) !important;
-  color: #9A9A9A !important;
+  color: #222 !important;
 }
 
 .noty_bar div {
@@ -2323,7 +2322,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
   background-color: rgba(100, 100, 100, 0.15);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  color: #9A9A9A;
+  color: #222;
 }
 
 img[alt="Snatches"] {
@@ -2650,7 +2649,7 @@ span[style*="color: green"], #log_table .log_upload {
   background: linear-gradient(to bottom, #1d1d1d 0%, #191919 100%);
 }
 .profile-album-review {
-  color: #9A9A9A;
+  color: #222;
   font-style: normal;
   text-align: unset;
   padding: 10px 10px 0;
@@ -2682,11 +2681,11 @@ span[style*="color: green"], #log_table .log_upload {
   background-color: rgba(100, 100, 100, 0.15);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  color: #9A9A9A;
+  color: #222;
 }
 /*********************** Dropdowns ***********************/
 select {
-  color: #9A9A9A;
+  color: #222;
   padding: 3px;
   padding-right: 30px;
   -webkit-appearance: none;
@@ -2723,7 +2722,7 @@ select > optgroup {
   padding-bottom: 10px ;
   padding-left: 10px;
   text-shadow: 0.1em 0.1em rgba(0, 0, 0, 0.5);
-  color: #9A9A9A !important;
+  color: #222 !important;
   line-height: 1.4em !important;
   font-weight: bolder !important;
   font: 13px 'Roboto', 'Trebuchet MS', "Arial", sans-serif;
@@ -2814,7 +2813,7 @@ table[id=pth_ptpimg_it] {
   background-color: rgba(100, 100, 100, 0.15);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  color: #9A9A9A;
+  color: #222;
   width: 100%;
 }
 [id=api_key]{
@@ -2835,7 +2834,7 @@ textarea[class="noWhutBB yavahtext"] {
   background-color: rgba(100, 100, 100, 0.15);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  color: #9A9A9A;
+  color: #222;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
@@ -2934,7 +2933,7 @@ table[id^="report"]{
   background-color: rgba(100, 100, 100, 0.15);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  color: #9A9A9A;
+  color: #222;
   border: 1px solid #3b3b3b;
 }
 /* Colours the background for the user-report info "report reason" row thing */
@@ -2951,7 +2950,7 @@ textarea[id^="notes_"]{
 
 /*********************** PT ***********************/
 #suggestion_main, #suggestion_box, #suggestion_info, #suggestion_note, .table {
-  color: #9a9a9a;
+  color: #222;
   background-color: rgba(55, 55, 55, 0.85) !important;
   text-transform: none !important;
   border: 1px solid #5353534D;
@@ -3100,7 +3099,7 @@ textarea[id^="notes_"]{
 .graphs .bar-color-23:hover { fill: #9B8520; }
 .graphs .bar-color-24:hover { fill: #268E2A; }
 
-.graphs text { fill: #9A9A9A; }
+.graphs text { fill: #222; }
 
 /*********************** MOBILE ***********************/
 @media only screen and (max-width: 1080px), @media only screen and (orientation: portrait) {
