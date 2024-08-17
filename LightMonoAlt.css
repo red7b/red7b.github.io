@@ -94,7 +94,7 @@ a.new-subscriptions {
   background-image: -moz-linear-gradient(top, rgba(42, 68, 93, 0.1), rgba(76, 123, 167, 0.5));
   background-image: -o-linear-gradient(top, rgba(42, 68, 93, 0.1), rgba(76, 123, 167, 0.5));
   background-image: linear-gradient(top bottom, rgba(42, 68, 93, 0.1), rgba(76, 123, 167, 0.5));
-  color: #888;
+  color: #222;
 }
 
 a.new-subscriptions:hover {
@@ -202,7 +202,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
   display: block !important;
   overflow: hidden;
   width: 152px !important;
-  background: rgba(20, 20, 20, 0.8);
+  background: rgba(20, 20, 20, 0.25);
   text-align: left;
 }
 
@@ -215,7 +215,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 
 #artistcomplete li.highlight {
   margin-right: 0;
-  background-color: rgba(100, 100, 100, 0.55);
+  background-color: rgba(100, 100, 100, 0.25);
 }
 
 #artistfields input > #artistinput[id^=artist], #title_tr input#title, #label_tr input#record_label, #catalogue_tr input#catalogue_number, #upload_table.create_form input#image, #edition_title input#remaster_title, #edition_record_label input#remaster_record_label, #edition_catalogue_number input#remaster_catalogue_number, .yadg_tr input#yadg_input, #upload_table.create_form input#title {
@@ -346,7 +346,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 #coverart.box ul.collage_images a img {
   width: calc(100% - 4px) !important;
   height: auto !important;
-  background-color: #3b3b3b !important;
+  background-color: #9A9A9A !important;
   padding: 2px;
   opacity: 0.8;
 }
@@ -432,7 +432,7 @@ ul.collage_images li:before {
   height: 45px;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  background: #191919;
+  background: #9A9A9A;
 }
 
 #extra2 {
@@ -441,7 +441,7 @@ ul.collage_images li:before {
   margin: 125px 0 0;
   width: 100%;
   height: 50px;
-  background-color: #2e2e2e;
+  background-color: #9A9A9A;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
@@ -481,7 +481,7 @@ ul.collage_images li:before {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  background-color: rgba(80, 80, 80, 0.3);
+  background-color: rgba(80, 80, 80, 0.25);
 }
 
 #poll .box.border {
@@ -701,7 +701,7 @@ ul.collage_images li:before {
 }
 
 #menu .active a {
-  background-color: #1c1c1c;
+  background-color: #9A9A9A;
   color: #528ba3;
 }
 
