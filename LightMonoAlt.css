@@ -816,13 +816,13 @@ ul.collage_images li:before {
   margin-right: auto;
   margin-left: auto;
   width: 70%;
-  background: rgba(50, 50, 50, 0.4);
+  background: rgba(50, 50, 50, 0.25);
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
 
 #rules .ratio_table .rowa {
-  background: rgba(30, 30, 30, 0.4);
+  background: rgba(30, 30, 30, 0.25);
 }
 
 #rules .rule_summary > ul, #chat .thin .box.pad > ul {
@@ -1287,12 +1287,12 @@ ul.collage_images li:before {
 }
 
 #wrapper div::-webkit-scrollbar-thumb {
-  background-color: #2d2d2d;
+  background-color: #9A9A9A;
   -webkit-box-shadow: inset 0 0 2px black;
 }
 
 #wrapper div::-webkit-scrollbar-thumb:hover, #wrapper div::-webkit-scrollbar-thumb:active {
-  background-color: #2a2a2a;
+  background-color: #9A9A9A;
 }
 
 #wrapper div::-webkit-scrollbar-button {
@@ -1458,7 +1458,7 @@ input[type="submit"], input[type="button"], button[type="button"], #upload #whmf
   display: inline-block;
   padding: 5px 10px;
   border: 1px solid #3b3b3b;
-  background-color: #707070;
+  background-color: #9A9A9A;
   background-image: -webkit-gradient(linear, left top, left bottom, from(#333333), to(#181818));
   background-image: -webkit-linear-gradient(top, #333333, #181818);
   background-image: -moz-linear-gradient(top, #333333, #181818);
@@ -1471,7 +1471,7 @@ input[type="submit"], input[type="button"], button[type="button"], #upload #whmf
 }
 
 input[type="submit"]:active, input[type="button"]:active, button[type="button"]:active, button#send_recommendation:active, #edit_irckey:active {
-  background-color: #333333;
+  background-color: #9A9A9A;
   background-image: -webkit-linear-gradient(top, #181818, #333333);
   background-image: -moz-linear-gradient(top, #181818, #333333);
   background-image: -o-linear-gradient(top, #181818, #333333);
@@ -1669,7 +1669,7 @@ li.graph .center_poll {
   width: 20px;
   height: 20px;
   border: 1px solid #1D1D1D !important;
-  background-color: rgba(100, 100, 100, 0.6) !important;
+  background-color: rgba(100, 100, 100, 0.3) !important;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset -1px 1px 0 rgba(255, 255, 255, 0.12);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset -1px 1px 0 rgba(255, 255, 255, 0.12);
   color: #999 !important;
@@ -1939,7 +1939,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
   margin-top: 5px;
   width: 20px;
   height: 20px;
-  background-color: rgba(100, 100, 100, 0.8) !important;
+  background-color: rgba(100, 100, 100, 0.3) !important;
   -webkit-box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset -1px 1px 0 rgba(255, 255, 255, 0.12);
   box-shadow: 0 1px 2px rgba(0, 0, 0, 0.05), inset -1px 1px 0 rgba(255, 255, 255, 0.12);
   color: #eee !important;
@@ -2043,7 +2043,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 .snatched_group, .snatched_torrent {
   color: #6a6a6a;
-  background-color: rgba(30, 30, 30, 0.5);
+  background-color: rgba(30, 30, 30, 0.3);
   border-left: 3px solid #4b4b4b;
 }
 
@@ -2387,7 +2387,7 @@ img[alt="Leechers"] {
 }
 
 tr.group, table[id="torrent_table"] > tbody > .torrent {
-  background: #1c1c1c;
+  background: #9A9A9A;
 }
 tr.group .group_info {
   line-height: 1.6em;
@@ -2408,7 +2408,7 @@ tr.group_torrent {
   font-size: 12px;
 }
 tr.group_torrent td.edition_info {
-  background: #333333;
+  background: #9A9A9A;
 }
 
 .news_post {
@@ -2637,7 +2637,7 @@ span[style*="color: green"], #log_table .log_upload {
   margin: 0;
   padding: 8px 10px;
   /* lol gradient generator */
-  background: #1d1d1d;
+  background: #9A9A9A;
   background: -moz-linear-gradient(top, #1d1d1d 0%, #191919 100%);
   background: -webkit-linear-gradient(top, #1d1d1d 0%, #191919 100%);
   background: linear-gradient(to bottom, #1d1d1d 0%, #191919 100%);
@@ -2685,7 +2685,7 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-color: #292929;
+  background-color: #9A9A9A;
   background-image: linear-gradient(45deg, transparent 50%, white 50%), linear-gradient(135deg, white 50%, transparent 50%);
   background-position: calc(100% - 13px) calc(0.7em + 1px), calc(100% - 8px) calc(0.7em + 1px), calc(100% - .4em) .4em;
   background-size: 5px 5px, 5px 5px, 1.2em 1.2em;
