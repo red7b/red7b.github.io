@@ -868,12 +868,10 @@ ul.collage_images li:before {
 
 #searchbars input {
   padding: 3px 10px;
-  width: 130px;
+  width: 140px;
   height: 19px;
   border: 1px solid #3B3B3B;
   background: rgba(0, 0, 0, 0.05);
-  -webkit-box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
-  box-shadow: inset 0 0 5px rgba(0, 0, 0, 0.3);
   color: #666;
   transition: .25s ease-in-out;
   -webkit-transition: .25s ease-in-out;
