@@ -432,7 +432,7 @@ ul.collage_images li:before {
   height: 45px;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.5);
-  background: #7c8483;
+  background: #9A9A9A;
 }
 
 #extra2 {
@@ -457,7 +457,7 @@ ul.collage_images li:before {
 }
 
 #footer p:last-child:before {
-  content: "LightMonoAlt. Based on DarkMonoAlt. Original by htrd. Released under CC BY-NC-ND 3.0 License.\A";
+  content: "LightMonoAlt by red7bait. Based on DarkMonoAlt, original by htrd. Released under CC BY-NC-ND 3.0 License.\A";
   display: block;
 }
 
@@ -702,7 +702,7 @@ ul.collage_images li:before {
 
 #menu .active a {
   background-color: #9A9A9A;
-  color: #528ba3;
+  color: #1F618D;
 }
 
 #menu .active a:hover {
