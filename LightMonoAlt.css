@@ -481,11 +481,11 @@ ul.collage_images li:before {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  background-color: rgba(80, 80, 80, 0.25);
+  background-color: #F0F0F0;
 }
 
 #poll .box.border {
-  background-color: rgba(100, 100, 100, 0.15);
+  background-color: #F0F0F0;
   min-width: 55%;
 }
 
@@ -816,7 +816,7 @@ ul.collage_images li:before {
   margin-right: auto;
   margin-left: auto;
   width: 70%;
-  background: rgba(50, 50, 50, 0.25);
+  background: #F0F0F0;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
 }
@@ -871,7 +871,7 @@ ul.collage_images li:before {
   width: 140px;
   height: 19px;
   border: 1px solid #3B3B3B;
-  background: rgba(0, 0, 0, 0.05);
+  background: #F0F0F0;
   color: #666;
   transition: .25s ease-in-out;
   -webkit-transition: .25s ease-in-out;
