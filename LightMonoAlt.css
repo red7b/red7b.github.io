@@ -1775,7 +1775,7 @@ li.graph .center_poll {
 }
 
 .forum_unread tr.colhead_dark td {
-  background: #F0F0F0 !important;
+  background: #D7D7D7 !important;
 }
 
 .friends_table textarea[cols="80"] {
@@ -1802,7 +1802,7 @@ li.graph .center_poll {
   margin: -10px;
   margin-bottom: 10px;
   padding: 8px 10px !important;
-  background: #F0F0F0;
+  background: #D7D7D7;
   font-weight: bold;
 }
 
