@@ -686,7 +686,7 @@ ul.collage_images li:before {
   width: 100%;
   height: 45px;
   text-align: right;
-  font-weight: bolder;
+  font-weight: bold;
 }
 
 #menu a, #userinfo_stats a, .tags a:hover, .search_form {
