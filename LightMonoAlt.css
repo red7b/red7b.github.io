@@ -1117,8 +1117,8 @@ ul.collage_images li:before {
 
 #userinfo_username a.username {
   color: #528ba3;
-  font-weight: normal;
-  font-size: 13px;
+  font-weight: bold;
+  font-size: 14px;
 }
 
 #userinfo_minor a:hover, #userinfo_major a:hover, #userinfo_username a:hover {
