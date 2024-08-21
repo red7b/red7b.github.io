@@ -1119,7 +1119,7 @@ ul.collage_images li:before {
 }
 
 #userinfo_minor a:hover, #userinfo_major a:hover, #userinfo_username a:hover {
-  color: #444;
+  color: #222;
 }
 
 #user #content > .thin.center > .box form input[maxlength="100"] {
