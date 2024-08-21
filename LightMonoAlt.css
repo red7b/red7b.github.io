@@ -2205,8 +2205,8 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Notifications */
 #noty_bottomRight_layout_container > li {
-  background-color: #9A9A9A !important;
-  border-color: #222 !important;
+  background-color: #E6E6E6 !important;
+  border-color: #D7D7D7 !important;
   color: #222 !important;
 }
 
