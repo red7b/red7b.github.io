@@ -427,7 +427,7 @@ ul.collage_images li:before {
   height: 45px;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
-  background: #7c8483;
+  background: #CCCCCC;
 }
 
 #extra2 {
@@ -436,7 +436,7 @@ ul.collage_images li:before {
   margin: 125px 0 0;
   width: 100%;
   height: 50px;
-  background-color: #7c8483;
+  background-color: #D7D7D7;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
 }
@@ -2191,9 +2191,9 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Tooltips */
 .tooltipster-default {
-  background-color: #9A9A9A;
-  border-color: #222;
-  border-width: 1px;
+  background-color: #E6E6E6;
+  border-color: #D7D7D7;
+  border-width: 0.5px;
   color: #222;
 }
 
