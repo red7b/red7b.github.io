@@ -361,7 +361,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 }
 
 #coverart.box ul.collage_images img:hover, .group_image.float_left.clear img:hover, .gm_albumartdisplay img:hover, #collage_table td img:hover, #userhistory .torrent_table.grouped.artwork tr.group.discog td[style="width: 60px; padding: 0;"] img:hover, #user .layout.recent a > img:hover {
-  border: 2px solid #528BA3 !important;
+  border: 1px solid #528BA3 !important;
   opacity: 1 !important;
   transition: opacity .25s ease-in-out;
   -webkit-transition: opacity .25s ease-in-out;
@@ -955,7 +955,7 @@ ul.collage_images li:before {
 }
 
 #torrent_table tr.group:hover img, #discog_table tr.discog:hover img, .torrent_table.cats.numbering.border tr.torrent:hover img, .torrent_table tr.torrent_row:hover img, .torrent_table tr.torrent:hover img {
-  border: 2px solid #528BA3 !important;
+  border: 1px solid #528BA3 !important;
   opacity: 1 !important;
   transition: opacity .25s ease-in-out;
   -webkit-transition: opacity .25s ease-in-out;
@@ -995,9 +995,7 @@ ul.collage_images li:before {
 }
 
 #torrents .edit_form .layout.border, #forums .search_form .layout.border, #vanityhouse.torrent_table {
-  background: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
+  background: E6E6E6;
 }
 
 #torrents .edit_form input[value="Edit"] {
@@ -1455,7 +1453,7 @@ input#styleurl, #user input[type="url"] {
 }
 
 tr.rowa:nth-child(n+2):hover, tr.rowb:nth-child(n+2):hover, #better tr:hover, tr.group_torrent:hover, #torrent_table tr.group:hover, #torrents .thin > table tr:nth-child(n+2):hover, #torrent_table tr.torrent:hover, #discog_table tr.discog:hover, #torrents_album tr.group:hover, #userhistory tr.group.discog:hover, .collage_table tr:nth-child(n+2):hover, .torrent_row:hover {
-  background-color: #F0F0F0;
+  background-color: #E6E6E6;
 }
 
 tr#release_list td > input[type="checkbox"], tr#format_list td > input[type="checkbox"], tr#bitrate_list td > input[type="checkbox"], tr#media_list td > input[type="checkbox"] {
@@ -2127,7 +2125,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 }
 
 .group_image.float_left.clear img, #userhistory .torrent_table.grouped.artwork tr.group.discog td[style="width: 60px; padding: 0;"] img, #user .layout.recent a > img {
-  border: 2px solid #3b3b3b !important;
+  border: 1px solid #3b3b3b !important;
 }
 
 .gm_albumartdisplay {
@@ -2146,7 +2144,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 .gm_albumartdisplay img, #userhistory .torrent_table.grouped.artwork tr.group.discog td[style="width: 60px; padding: 0;"] img, #user .layout.recent a > img {
   margin: 5px;
-  border: 2px solid #ccc !important;
+  border: 1px solid #ccc !important;
 }
 
 .options_list li {
@@ -2321,7 +2319,7 @@ img[alt="Leechers"] {
 }
 
 tr.group, table[id="torrent_table"] > tbody > .torrent {
-  background: #9A9A9A;
+  background: #FAFAFA;
 }
 tr.group .group_info {
   line-height: 1.6em;
