@@ -425,8 +425,6 @@ ul.collage_images li:before {
   padding: 0;
   width: 100%;
   height: 45px;
-  -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
-  box-shadow: 0 2px 3px rgba(0, 0, 0, 0.4);
   background: #929292;
 }
 
