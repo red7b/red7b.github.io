@@ -686,8 +686,12 @@ ul.collage_images li:before {
   font-weight: bold;
 }
 
-#menu a, #userinfo_stats a, .tags a:hover, .search_form {
+#menu a, .tags a:hover, .search_form {
   color: #FFFFFF;
+}
+
+#userinfo_stats a {
+  color: #222;
 }
 
 #menu .active a {
@@ -695,7 +699,7 @@ ul.collage_images li:before {
 }
 
 #menu .active a:hover {
-  color: #aaa;
+  color: #9CB6BC;
 }
 
 #menu ul {
@@ -1487,7 +1491,7 @@ td.colhead {
   margin: -11px;
   margin-bottom: 10px;
   padding: 8px !important;
-  background: #BEBEBE;
+  background: #9CB6BC;
   color: #222 !important;
 }
 
@@ -1768,7 +1772,7 @@ li.graph .center_poll {
 }
 
 .forum_unread tr.colhead_dark td {
-  background: #BEBEBE !important;
+  background: #9CB6BC !important;
 }
 
 .friends_table textarea[cols="80"] {
@@ -1795,7 +1799,7 @@ li.graph .center_poll {
   margin: -10px;
   margin-bottom: 10px;
   padding: 8px 10px !important;
-  background: #BEBEBE;
+  background: #9CB6BC;
   font-weight: bold;
 }
 
@@ -2184,7 +2188,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 /* Tooltips */
 .tooltipster-default {
   background-color: #E6E6E6;
-  border-color: #BEBEBE;
+  border-color: #9CB6BC;
   border-width: 0.5px;
   color: #222;
 }
@@ -2197,7 +2201,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Notifications */
 #noty_bottomRight_layout_container > li {
-  background-color: #BEBEBE !important;
+  background-color: #9CB6BC !important;
   border-color: #929292 !important;
   color: #222 !important;
 }
