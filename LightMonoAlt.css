@@ -51,7 +51,7 @@ li {
 }
 
 a, .linkbox a:hover {
-  color: #528ba3;
+  color: #205755;
   text-decoration: none;
 }
 
@@ -307,7 +307,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 }
 
 #content h1 a:visited, #content h2 a:visited, #content h3 a:visited {
-  color: #528ba3 !important;
+  color: #205755 !important;
 }
 
 #catalogue_number_year td:nth-child(3), #edition_title td:nth-child(3) {
@@ -347,7 +347,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 }
 
 #coverart.box ul.collage_images a img:hover {
-  background-color: #528BA3 !important;
+  background-color: #205755 !important;
   border: none !important;
 }
 
@@ -361,7 +361,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 }
 
 #coverart.box ul.collage_images img:hover, .group_image.float_left.clear img:hover, .gm_albumartdisplay img:hover, #collage_table td img:hover, #userhistory .torrent_table.grouped.artwork tr.group.discog td[style="width: 60px; padding: 0;"] img:hover, #user .layout.recent a > img:hover {
-  border: 1px solid #528BA3 !important;
+  border: 1px solid #205755 !important;
   opacity: 1 !important;
   transition: opacity .25s ease-in-out;
   -webkit-transition: opacity .25s ease-in-out;
@@ -543,7 +543,7 @@ ul.collage_images li:before {
 #format-hide span {
   padding: 2px 2px;
   border: none !important;
-  color: #528ba3 !important;
+  color: #205755 !important;
 }
 
 #format-hide .hider-f {
@@ -959,7 +959,7 @@ ul.collage_images li:before {
 }
 
 #torrent_table tr.group:hover img, #discog_table tr.discog:hover img, .torrent_table.cats.numbering.border tr.torrent:hover img, .torrent_table tr.torrent_row:hover img, .torrent_table tr.torrent:hover img {
-  border: 1px solid #528BA3 !important;
+  border: 1px solid #205755 !important;
   opacity: 1 !important;
   transition: opacity .25s ease-in-out;
   -webkit-transition: opacity .25s ease-in-out;
@@ -1112,7 +1112,7 @@ ul.collage_images li:before {
 }
 
 #userinfo_username a.username {
-  color: #528ba3;
+  color: #205755;
   font-weight: bold;
   font-size: 14px;
 }
@@ -1504,7 +1504,7 @@ td.unread, td.read, td.read_locked, td.unread_sticky, td.read_locked_sticky, td.
 
 td.unread {
   background: url('sf.png') -0px -0px;
-  border-left: 2px solid #528ba3;
+  border-left: 2px solid #205755;
 }
 
 td.read {
@@ -1517,7 +1517,7 @@ td.read_locked {
 
 td.unread_sticky {
   background: url('sf.png') -0px -35px;
-  border-left: 2px solid #528ba3;
+  border-left: 2px solid #205755;
 }
 
 td.read_sticky {
@@ -1530,7 +1530,7 @@ td.read_locked_sticky {
 
 td.unread_locked_sticky {
   background: url('sf.png') -35px -35px;
-  border-left: 2px solid #528ba3;
+  border-left: 2px solid #205755;
 }
 
 .navigation_list, .navigation_list ol {
@@ -1577,7 +1577,7 @@ li.graph .center_poll {
   display: block;
   height: 7px;
   border: 1px solid #456478;
-  background: #528ba3;
+  background: #205755;
   -webkit-box-shadow: inset 0 -1px 1px #456478;
   box-shadow: inset 0 -1px 1px #456478;
 }
@@ -1607,7 +1607,7 @@ li.graph .center_poll {
 }
 
 .autocomplete-suggestions strong {
-  color: #528ba3;
+  color: #205755;
 }
 
 .avatar {
@@ -2020,7 +2020,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
   -moz-filter: grayscale(0);
   -ms-filter: grayscale(0);
   -o-filter: grayscale(0);
-  border: 2px solid #528BA3 !important;
+  border: 2px solid #205755 !important;
 }
 */
 .sticky_post .body {
@@ -2177,7 +2177,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 }
 
 .preview_image:hover {
-  border: 2px solid #528BA3;
+  border: 2px solid #205755;
   opacity: 1;
   transition: opacity .25s ease-in-out;
   -webkit-transition: opacity .25s ease-in-out;
@@ -2569,7 +2569,7 @@ span[style*="color: green"], #log_table .log_upload {
 .profile-album-title {
   text-align: center;
   font-size; 13px;
-  color: #528ba3;
+  color: #205755;
   margin: 0;
   padding: 8px 10px;
   /* lol gradient generator */
@@ -2593,7 +2593,7 @@ span[style*="color: green"], #log_table .log_upload {
   top: -45px;
 }
 .changelog.tags a {
-  color: #528ba3 !important;
+  color: #205755 !important;
 }
 .changelog.tags a:hover, .changelog.tags a:visited {
   color: #456478 !important;
