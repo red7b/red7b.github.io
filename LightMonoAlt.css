@@ -88,7 +88,7 @@ a img, #collage .search_form td, #requests .search_form td, #reportsv2 #reportfo
 a.new-subscriptions {
   padding: 6px 5px 5px !important;
   margin-right: 5px;
-  background-color: #9A9A9A;
+  background-color: #9CB6BC;
   color: #222;
 }
 
@@ -341,7 +341,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 #coverart.box ul.collage_images a img {
   width: calc(100% - 4px) !important;
   height: auto !important;
-  background-color: #9A9A9A !important;
+  background-color: #9CB6BC !important;
   padding: 2px;
   opacity: 0.8;
 }
@@ -1274,11 +1274,11 @@ ul.collage_images li:before {
 }
 
 #wrapper div::-webkit-scrollbar-thumb {
-  background-color: #9A9A9A;
+  background-color: #9CB6BC;
 }
 
 #wrapper div::-webkit-scrollbar-thumb:hover, #wrapper div::-webkit-scrollbar-thumb:active {
-  background-color: #9A9A9A;
+  background-color: #9CB6BC;
 }
 
 #wrapper div::-webkit-scrollbar-button {
@@ -1603,7 +1603,7 @@ li.graph .center_poll {
 }
 
 .autocomplete-selected {
-  background-color: #9A9A9A;
+  background-color: #9CB6BC;
 }
 
 .autocomplete-suggestions strong {
@@ -2024,7 +2024,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 }
 */
 .sticky_post .body {
-  background: #9A9A9A !important;
+  background: #9CB6BC !important;
 }
 
 .tags {
@@ -2084,7 +2084,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 }
 
 .tl_reported {
-  background-color: #9A9A9A;
+  background-color: #9CB6BC;
   color: #bababa;
   padding: 2px 3px;
   border-radius: 2px;
@@ -2097,7 +2097,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 }
 
 .unreadpm {
-  background-color: #9A9A9A;
+  background-color: #9CB6BC;
   border-left: 3px solid #456478;
 }
 
@@ -2344,7 +2344,7 @@ tr.group_torrent {
   font-size: 12px;
 }
 tr.group_torrent td.edition_info {
-  background: #9A9A9A;
+  background: #9CB6BC;
 }
 
 .news_post {
@@ -2573,7 +2573,7 @@ span[style*="color: green"], #log_table .log_upload {
   margin: 0;
   padding: 8px 10px;
   /* lol gradient generator */
-  background: #9A9A9A;
+  background: #9CB6BC;
 }
 
 .profile-album-review {
@@ -2617,7 +2617,7 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-color: #9A9A9A;
+  background-color: #9CB6BC;
   background-image: linear-gradient(45deg, transparent 50%, white 50%), linear-gradient(135deg, white 50%, transparent 50%);
   background-position: calc(100% - 13px) calc(0.7em + 1px), calc(100% - 8px) calc(0.7em + 1px), calc(100% - .4em) .4em;
   background-size: 5px 5px, 5px 5px, 1.2em 1.2em;
