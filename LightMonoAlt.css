@@ -434,7 +434,7 @@ ul.collage_images li:before {
   margin: 125px 0 0;
   width: 100%;
   height: 50px;
-  background-color: #DDC58D;
+  background-color: #36918E;
 }
 
 #flip_view_1, #flip_view_2, canvas#similarArtistsCanvas {
@@ -691,7 +691,7 @@ ul.collage_images li:before {
 }
 
 #menu .active a {
-  color: #1F618D;
+  color: #DDC58D;
 }
 
 #menu .active a:hover {
