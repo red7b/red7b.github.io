@@ -553,7 +553,7 @@ ul.collage_images li:before {
 }
 
 #format-hide.box.box_artists {
-  color: #D3D3D3;
+  color: #C8C8C0;
   text-shadow: none;
 }
 
@@ -815,7 +815,7 @@ ul.collage_images li:before {
 }
 
 #rules .ratio_table .rowa {
-  background: #D3D3D3;
+  background: #C8C8C0;
 }
 
 #rules .rule_summary > ul, #chat .thin .box.pad > ul {
@@ -1262,15 +1262,15 @@ ul.collage_images li:before {
 }
 
 #wrapper div::-webkit-scrollbar-track {
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
 }
 
 #wrapper div::-webkit-scrollbar-track-piece {
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
 }
 
 #wrapper div::-webkit-scrollbar-track-piece:start:hover, #wrapper div::-webkit-scrollbar-track-piece:end:hover {
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
 }
 
 #wrapper div::-webkit-scrollbar-thumb {
@@ -1293,7 +1293,7 @@ blockquote, #inbox .box.pad #preview {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
   text-align: justify;
 }
 
@@ -1457,7 +1457,7 @@ input#styleurl, #user input[type="url"] {
 }
 
 tr.rowa:nth-child(n+2):hover, tr.rowb:nth-child(n+2):hover, #better tr:hover, tr.group_torrent:hover, #torrent_table tr.group:hover, #torrents .thin > table tr:nth-child(n+2):hover, #torrent_table tr.torrent:hover, #discog_table tr.discog:hover, #torrents_album tr.group:hover, #userhistory tr.group.discog:hover, .collage_table tr:nth-child(n+2):hover, .torrent_row:hover {
-  background-color: #E6E6E6;
+  background-color: #C8C8C0;
 }
 
 tr#release_list td > input[type="checkbox"], tr#format_list td > input[type="checkbox"], tr#bitrate_list td > input[type="checkbox"], tr#media_list td > input[type="checkbox"] {
@@ -1570,7 +1570,7 @@ li.graph {
   padding: 3px;
   width: 80%;
   height: 15px;
-  background: #D3D3D3;
+  background: #C8C8C0;
 }
 
 li.graph .center_poll {
@@ -1981,7 +1981,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 .snatched_group, .snatched_torrent {
   color: #6a6a6a;
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
   border-left: 3px solid #4b4b4b;
 }
 
@@ -2194,7 +2194,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 }
 
 .tooltipster-default .tooltipster-content {
-  font-size: 13px;
+  font-size: 12px;
   padding: 5px 8px;
   text-shadow: none;
 }
@@ -2249,7 +2249,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 #reportsv2 .box, #reports .box {
   margin-bottom: 10px;
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   color: #222;
@@ -2382,7 +2382,7 @@ body#logchecker textarea {
   padding: 3px 0px 3px 0px;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
   text-align: center;
   color: green;
 }
@@ -2855,7 +2855,7 @@ input.flac_quickbutton[disabled="disabled"] {
 table[id^="report"]{
   margin-bottom: 15px !important;
   padding: 10px !important;
-  background-color: #D3D3D3;
+  background-color: #C8C8C0;
   -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   box-shadow: 0 2px 3px rgba(0, 0, 0, 0.1);
   color: #222;
