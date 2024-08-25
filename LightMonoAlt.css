@@ -260,8 +260,6 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
   margin-bottom: 20px;
   border: none;
   background: none;
-  -webkit-box-shadow: none;
-  box-shadow: none;
 }
 
 #collage_table td img {
@@ -468,7 +466,7 @@ ul.collage_images li:before {
 #recwars  #bracketlisting .box.pad, #recwars form .box.pad {
   margin: 10px;
   padding: 10px;
-  border: 1px solid #333;
+  border: 0.5px solid #1D2B2E;
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
@@ -806,7 +804,7 @@ ul.collage_images li:before {
 #rules .ratio_table {
   margin-right: auto;
   margin-left: auto;
-  width: 70%;
+  width: 80%;
   background: #F0F0F0;
 }
 
@@ -859,7 +857,7 @@ ul.collage_images li:before {
   padding: 3px 10px;
   width: 140px;
   height: 19px;
-  border: 0.5px solid #3B3B3B;
+  border: 0.5px solid #1D2B2E;
   background: #FAFAFA;
   color: #444;
   transition: .25s ease-in-out;
@@ -995,7 +993,7 @@ ul.collage_images li:before {
 }
 
 #torrents .edit_form .layout.border, #forums .search_form .layout.border, #vanityhouse.torrent_table {
-  background: E6E6E6;
+  background: FFFFFF;
 }
 
 #torrents .edit_form input[value="Edit"] {
@@ -1351,7 +1349,7 @@ span[style="float: right;"] > input[value="Preview"], span[style="float: right;"
 
 input[type="text"], input[type="search"], input[type="password"], input[type="email"], input[type="url"], textarea {
   padding: 5px 10px;
-  border: 1px solid #3B3B3B;
+  border: 0.5px solid #1D2B2E;
   background: #F0F0F0;
   color: #222;
   transition: .25s ease-in-out;
@@ -1364,7 +1362,7 @@ input[type="checkbox"] {
   position: relative;
   display: inline-block;
   padding: 6px;
-  border: 1px solid #3b3b3b;
+  border: 1px solid #1D2B2E;
   background: #F0F0F0;
   -webkit-appearance: none;
 }
@@ -1373,7 +1371,7 @@ input[type="checkbox"]:active, input[type="checkbox"]:checked:active {
 }
 
 input[type="checkbox"]:checked {
-  border: 1px solid #3b3b3b;
+  border: 1px solid #1D2B2E;
   background: #F0F0F0;
   color: #3b3b3b;
 }
@@ -1384,7 +1382,7 @@ input[type="checkbox"]:checked:after {
   left: 1px;
   color: #222;
   content: '\2714';
-  font-size: 13px;
+  font-size: 15px;
 }
 
 input[type="radio"] {
@@ -1392,7 +1390,7 @@ input[type="radio"] {
   top: 3px;
   display: inline-block;
   padding: 6px;
-  border: 1px solid #3b3b3b;
+  border: 1px solid #1D2B2E;
   border-radius: 50px;
   background: #F0F0F0;
   -webkit-appearance: none;
@@ -1411,7 +1409,7 @@ input[type="radio"]:checked:after {
 }
 
 input[type="radio"]:checked {
-  border: 1px solid #3b3b3b;
+  border: 1px solid #1D2B2E;
   background: #F0F0F0;
   color: #222;
 }
@@ -1593,7 +1591,7 @@ li.graph .center_poll {
 
 .autocomplete-suggestions {
   background-color: #F0F0F0;
-  border: 1px solid #3B3B3B;
+  border: 0.5px solid #1D2B2E;
 }
 
 .autocomplete-selected {
@@ -1614,7 +1612,7 @@ li.graph .center_poll {
   margin-top: 5px;
   width: 20px;
   height: 20px;
-  border: 1px solid #1D1D1D !important;
+  border: 0.5px solid #1D2B2E !important;
   background-color: #F0F0F0 !important;
   color: #999 !important;
   text-shadow: none !important;
@@ -1716,8 +1714,6 @@ li.graph .center_poll {
 .filter_torrents .cat_list[width="100%"] {
   border: none;
   background-color: transparent;
-  -webkit-box-shadow: none;
-  box-shadow: none;
 }
 
 .filter_torrents .submit {
@@ -1875,7 +1871,6 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
   height: 20px;
   background-color: rgba(100, 100, 100, 0.3) !important;
   color: #eee !important;
-  text-shadow: none !important;
   font-size: 12px;
   cursor: pointer;
 }
@@ -1975,8 +1970,8 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 .snatched_group, .snatched_torrent {
   color: #6a6a6a;
-  background-color: #C8C8C0;
-  border-left: 3px solid #4b4b4b;
+  background-color: #FFFFFF;
+  border-left: 3px solid #1D2B2E;
 }
 
 .snatched_group .tags a, .snatched_torrent .tags a {
@@ -2564,6 +2559,7 @@ span[style*="color: green"], #log_table .log_upload {
   padding: 8px 10px;
   /* lol gradient generator */
   background: #9CB6BC;
+  text-shadow: none;
 }
 
 .profile-album-review {
@@ -2607,7 +2603,7 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-color: #9CB6BC;
+  background-color: #C8C8C0;
   background-image: linear-gradient(45deg, transparent 50%, white 50%), linear-gradient(135deg, white 50%, transparent 50%);
   background-position: calc(100% - 13px) calc(0.7em + 1px), calc(100% - 8px) calc(0.7em + 1px), calc(100% - .4em) .4em;
   background-size: 5px 5px, 5px 5px, 1.2em 1.2em;
@@ -2618,7 +2614,7 @@ select {
   overflow: auto;
 }
 select:hover {
-  background-color: #272727;
+  background-color: #DDC58D;
   transition: .25s ease-in-out;
   -webkit-transition: .25s ease-in-out;
   -moz-transition: .25s ease-in-out;
