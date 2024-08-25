@@ -1591,6 +1591,7 @@ li.graph .center_poll {
 
 .autocomplete-suggestions {
   font-size: 12px;
+  line-height: 1.5;
   background-color: #F0F0F0;
   border: 0.5px solid #1D2B2E;
 }
