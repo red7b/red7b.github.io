@@ -693,7 +693,7 @@ ul.collage_images li:before {
 }
 
 #menu .active a:hover {
-  color: #9CB6BC;
+  color: #DDC58D;
 }
 
 #menu ul {
@@ -2599,7 +2599,6 @@ span[style*="color: green"], #log_table .log_upload {
 select {
   color: #222;
   padding: 4px;
-  padding-right: 30px;
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
