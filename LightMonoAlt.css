@@ -315,7 +315,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 #content {
   overflow: hidden;
   margin: 125px auto 50px !important;
-  width: 1050px;
+  width: 1200px;
   line-height: 1.4em;
 }
 
