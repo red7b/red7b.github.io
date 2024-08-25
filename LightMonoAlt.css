@@ -2187,7 +2187,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Tooltips */
 .tooltipster-default {
-  background-color: #E6E6E6;
+  background-color: #DDC58D;
   border-color: #9CB6BC;
   border-width: 0.5px;
   color: #222;
@@ -2201,7 +2201,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Notifications */
 #noty_bottomRight_layout_container > li {
-  background-color: #9CB6BC !important;
+  background-color: #DDC58D !important;
   border-color: #929292 !important;
   color: #222 !important;
 }
