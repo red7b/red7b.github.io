@@ -1420,9 +1420,9 @@ input[type="radio"]:active, input[type="radio"]:checked:active {
 input[type="submit"], input[type="button"], button[type="button"], #upload #whmf_offer button, button#send_recommendation, #edit_irckey {
   display: inline-block;
   padding: 5px 10px;
-  border: 1px solid #3b3b3b;
-  background-color: #F0F0F0;
-  color: #444;
+  border: 0.5px solid #1D2B2E;
+  background-color: #DDC58D;
+  color: #222;
   text-decoration: none;
   font-weight: bold;
   cursor: pointer;
