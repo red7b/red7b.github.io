@@ -322,7 +322,6 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 #content .main_column {
   float: left;
   width: 69%;
-  margin-left: 0.5%;
 }
 
 #content, .thin {
