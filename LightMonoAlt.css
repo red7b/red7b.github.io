@@ -332,8 +332,7 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
 
 #content .sidebar {
   float: right;
-  width: 27% !important;
-  margin-right: 2%;
+  width: 29% !important;
 }
 
 #coverart.box ul.collage_images a img {
