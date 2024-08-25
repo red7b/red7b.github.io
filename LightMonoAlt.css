@@ -2187,8 +2187,8 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Tooltips */
 .tooltipster-default {
-  background-color: #DDC58D;
-  border-color: #9CB6BC;
+  background-color: #C8C8C0;
+  border-color: #929292;
   border-width: 0.5px;
   color: #222;
 }
@@ -2201,7 +2201,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Notifications */
 #noty_bottomRight_layout_container > li {
-  background-color: #DDC58D !important;
+  background-color: #C8C8C0 !important;
   border-color: #929292 !important;
   color: #222 !important;
 }
