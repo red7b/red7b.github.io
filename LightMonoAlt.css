@@ -93,7 +93,7 @@ a.new-subscriptions {
 }
 
 a.new-subscriptions:hover {
-  color: #7a7a7a !important;
+  color: #5291BB !important;
 }
 
 .hide_torrents a,.show_torrents a {
@@ -681,7 +681,7 @@ ul.collage_images li:before {
 }
 
 #menu a, .tags a:hover, .search_form {
-  color: #FFFFFF;
+  color: #5291BB;
 }
 
 #userinfo_stats a {
@@ -693,7 +693,7 @@ ul.collage_images li:before {
 }
 
 #menu .active a:hover {
-  color: #DDC58D;
+  color: #5291BB;
 }
 
 #menu ul {
@@ -1104,7 +1104,7 @@ ul.collage_images li:before {
 }
 
 #userinfo_username a.username {
-  color: #1D2B2E;
+  color: #5291BB;
   font-weight: bold;
   font-size: 14px;
 }
