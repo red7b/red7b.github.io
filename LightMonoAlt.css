@@ -2367,7 +2367,7 @@ body#logchecker textarea {
 /* Request vote success; maybe some others */
 .save_message {
   padding: 3px 0px 3px 0px;
-  background-color: #C8C8C0;
+  background-color: #FFFFFF;
   text-align: center;
   color: green;
 }
@@ -2834,7 +2834,7 @@ input.flac_quickbutton[disabled="disabled"] {
 table[id^="report"]{
   margin-bottom: 15px !important;
   padding: 10px !important;
-  background-color: #C8C8C0;
+  background-color: #FFFFFF;
   color: #222;
   border: 1px solid #3b3b3b;
 }
