@@ -51,12 +51,12 @@ li {
 }
 
 a, .linkbox a:hover {
-  color: #3D6E8F;
+  color: #376381;
   text-decoration: none;
 }
 
 a:hover, #content a:visited {
-  color: #3D6E8F;
+  color: #376381;
 }
 
 a img, #collage .search_form td, #requests .search_form td, #reportsv2 #reportform.create_form .layout td, #requests .box.box_votes td, #upload #whmf_offer, .filter_torrents .cat_list, .search_form .layout td {
