@@ -1254,15 +1254,15 @@ ul.collage_images li:before {
 }
 
 #wrapper div::-webkit-scrollbar-track {
-  background-color: #C8C8C0;
+  background-color: #FFFFFF;
 }
 
 #wrapper div::-webkit-scrollbar-track-piece {
-  background-color: #C8C8C0;
+  background-color: #FFFFFF;
 }
 
 #wrapper div::-webkit-scrollbar-track-piece:start:hover, #wrapper div::-webkit-scrollbar-track-piece:end:hover {
-  background-color: #C8C8C0;
+  background-color: #FFFFFF;
 }
 
 #wrapper div::-webkit-scrollbar-thumb {
@@ -1449,7 +1449,7 @@ input#styleurl, #user input[type="url"] {
 }
 
 tr.rowa:nth-child(n+2):hover, tr.rowb:nth-child(n+2):hover, #better tr:hover, tr.group_torrent:hover, #torrent_table tr.group:hover, #torrents .thin > table tr:nth-child(n+2):hover, #torrent_table tr.torrent:hover, #discog_table tr.discog:hover, #torrents_album tr.group:hover, #userhistory tr.group.discog:hover, .collage_table tr:nth-child(n+2):hover, .torrent_row:hover {
-  background-color: #C8C8C0;
+  background-color: #FFFFFF;
 }
 
 tr#release_list td > input[type="checkbox"], tr#format_list td > input[type="checkbox"], tr#bitrate_list td > input[type="checkbox"], tr#media_list td > input[type="checkbox"] {
