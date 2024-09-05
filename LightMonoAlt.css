@@ -339,7 +339,6 @@ h3#irc + .box.pad ul li:last-child, h3#general + .box.pad ul li:last-child {
   height: auto !important;
   background-color: #9CB6BC !important;
   padding: 2px;
-  opacity: 0.8;
 }
 
 #coverart.box ul.collage_images a img:hover {
