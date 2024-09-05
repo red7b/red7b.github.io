@@ -2561,6 +2561,10 @@ span[style*="color: green"], #log_table .log_upload {
   text-shadow: none;
 }
 
+.profile-album img {
+  max-height: none;
+}
+
 .profile-album-review {
   color: #222;
   font-style: normal;
