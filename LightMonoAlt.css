@@ -51,12 +51,12 @@ li {
 }
 
 a, .linkbox a:hover {
-  color: #376381;
+  color: #315974;
   text-decoration: none;
 }
 
 a:hover, #content a:visited {
-  color: #376381;
+  color: #315974;
 }
 
 a img, #collage .search_form td, #requests .search_form td, #reportsv2 #reportform.create_form .layout td, #requests .box.box_votes td, #upload #whmf_offer, .filter_torrents .cat_list, .search_form .layout td {
@@ -549,7 +549,7 @@ ul.collage_images li:before {
 }
 
 #format-hide.box.box_artists {
-  color: #C8C8C0;
+  color: #DEDED9;
   text-shadow: none;
 }
 
@@ -807,7 +807,7 @@ ul.collage_images li:before {
 }
 
 #rules .ratio_table .rowa {
-  background: #C8C8C0;
+  background: #DEDED9;
 }
 
 #rules .rule_summary > ul, #chat .thin .box.pad > ul {
@@ -1285,7 +1285,7 @@ blockquote, #inbox .box.pad #preview {
   -webkit-border-radius: 3px;
   -moz-border-radius: 3px;
   border-radius: 3px;
-  background-color: #C8C8C0;
+  background-color: #DEDED9;
   text-align: justify;
 }
 
@@ -1562,7 +1562,7 @@ li.graph {
   padding: 3px;
   width: 80%;
   height: 15px;
-  background: #C8C8C0;
+  background: #DEDED9;
 }
 
 li.graph .center_poll {
@@ -2176,7 +2176,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Tooltips */
 .tooltipster-default {
-  background-color: #C8C8C0;
+  background-color: #DEDED9;
   border-color: #1D2B2E;
   border-width: 0.5px;
   color: #222;
@@ -2190,7 +2190,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Notifications */
 #noty_bottomRight_layout_container > li {
-  background-color: #C8C8C0 !important;
+  background-color: #DEDED9 !important;
   border-color: #1D2B2E !important;
   color: #222 !important;
 }
@@ -2238,7 +2238,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 #reportsv2 .box, #reports .box {
   margin-bottom: 10px;
-  background-color: #C8C8C0;
+  background-color: #DEDED9;
   color: #222;
 }
 
@@ -2602,7 +2602,7 @@ select {
   -webkit-appearance: none;
   -moz-appearance: none;
   appearance: none;
-  background-color: #C8C8C0;
+  background-color: #DEDED9;
   border: 0.5px solid #1D2B2E;
   border-radius: 3px;
   width: 100;
@@ -3080,7 +3080,7 @@ textarea[id^="notes_"]{
     padding: 8px;
     right: 0px;
     text-align: center;
-    background-color: #C8C8C0;
+    background-color: #DEDED9;
   }
 }
 @media only screen and (max-width: 900px) {
