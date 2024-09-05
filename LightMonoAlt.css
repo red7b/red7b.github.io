@@ -2277,7 +2277,7 @@ img[alt="Leechers"] {
 }
 
 .sidebar img {
-  max-width: 95%;
+  max-width: 100%;
   width: auto !important;
 }
 
@@ -2541,7 +2541,6 @@ span[style*="color: green"], #log_table .log_upload {
 #profile-album a div {
   display: block;
   height: auto;
-  margin: 10px -10px 0;
   opacity: 1;
   padding: 0;
   position: initial;
