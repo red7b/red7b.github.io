@@ -2189,7 +2189,7 @@ a.brackets.tooltip.vote_tag_up:before, a.brackets.tooltip.vote_tag_up:after, a.b
 
 /* Notifications */
 #noty_bottomRight_layout_container > li {
-  background-color: #DEDED9 !important;
+  background-color: #cddadd !important;
   border-color: #1D2B2E !important;
   color: #222 !important;
 }
